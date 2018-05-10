@@ -1,3 +1,3 @@
-# ToDo-List width weather API
+# ToDo-List width Local weather
 
-My first js app in github.
+A ToDo-List developed width Vanilla Js. using wunderground API and Materialize framework.
