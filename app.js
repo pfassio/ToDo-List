@@ -47,7 +47,7 @@ xhr.open('GET',`http://api.wunderground.com/api/62c8ef183d5af120/conditions/q/${
 
 locationCityUi.innerHTML = response.current_observation.display_location.city;
 locationCountryUi.innerHTML = `, ${response.current_observation.display_location.country}`;
-tempUi.textContent = response.current_observation.temp_c;
+tempUi.innerHTML = `${response.current_observation.temp_c}°`;
 iconUi.setAttribute('src',response.current_observation.icon_url);
     }
   }
