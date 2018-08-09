@@ -1,3 +1,7 @@
-# ToDo-List width Local weather
+# ToDo-List con Clima local
 
-A simple ToDo-List built width Vanilla Js. using wunderground API and Materialize framework.
+Una simple Todo-List app desarrollada con Vanilla Js y utilizando la API de Wunderground para obtener el clima con geolocalización.
+
+También se utiliza Materialize como framework para el estilo.
+
+Link: [ToDoList](http://pablofassio.com/ToDoList/)
